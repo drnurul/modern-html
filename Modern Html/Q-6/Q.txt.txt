@@ -1,0 +1,6 @@
+This HTML page includes a table with two columns ("HTML" and "HTML5") and three rows highlighting key differences between HTML and HTML5:
+
+Definition: Explains the basic definition of HTML and HTML5.
+Multimedia Support: Contrasts the limited multimedia support in older HTML versions with HTML5's native support for audio, video, and canvas elements.
+Semantic Elements: Shows the absence of specific semantic elements in HTML and the introduction of new semantic elements in HTML5 for better content structuring.
+Feel free to customize the content or styling as needed for your specific requirements.

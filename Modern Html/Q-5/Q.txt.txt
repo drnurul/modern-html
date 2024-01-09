@@ -1,0 +1,14 @@
+This HTML page demonstrates three key features of HTML5:
+
+Audio and Video Support: It includes a <video> element showcasing a sample video (replace "video/sample.mp4" with the actual video file path) with native playback controls.
+
+Canvas: It utilizes the <canvas> element along with JavaScript to draw a red rectangle on the canvas area.
+
+Improved Forms: It displays a form with input fields utilizing HTML5's input types (email, date) and attributes (required) for improved user input and validation.
+
+Each feature is enclosed within semantic tags like <section>, <header>, <main>, and <footer>, providing a structured layout to the content.
+
+
+
+
+
